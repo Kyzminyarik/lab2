@@ -1,5 +1,5 @@
-#include <example.hpp>
+#include <Exploring.hpp>
 
 int main() {
-  example();
+  experiment();
 }
